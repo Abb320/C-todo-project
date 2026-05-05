@@ -1,0 +1,14 @@
+E:\codes\c#\project\ToDoApp\bin\Debug\net10.0-windows\ToDoApp.exe
+E:\codes\c#\project\ToDoApp\bin\Debug\net10.0-windows\ToDoApp.deps.json
+E:\codes\c#\project\ToDoApp\bin\Debug\net10.0-windows\ToDoApp.runtimeconfig.json
+E:\codes\c#\project\ToDoApp\bin\Debug\net10.0-windows\ToDoApp.dll
+E:\codes\c#\project\ToDoApp\bin\Debug\net10.0-windows\ToDoApp.pdb
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ToDoApp.AssemblyInfoInputs.cache
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ToDoApp.AssemblyInfo.cs
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ToDoApp.csproj.CoreCompileInputs.cache
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ToDoApp.dll
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\refint\ToDoApp.dll
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ToDoApp.pdb
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ToDoApp.genruntimeconfig.cache
+E:\codes\c#\project\ToDoApp\obj\Debug\net10.0-windows\ref\ToDoApp.dll
